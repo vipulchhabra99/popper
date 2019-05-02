@@ -28,7 +28,6 @@ start, please feel free to contact us.
   * **2019/05/19**: Ivo Jimenez will present at [Cephalocon 
     Barcelona'19](https://sched.co/MAKP) on the work by UCSC students 
     on automating Ceph experimentation workflows using Popper.
-
   * **2019/08/21**: A hands-on tutorial on Popper will be part of this 
     year's [FORCE11 FSCI](https://force11.org/fsci/2019/) program, the 
     first with updated content for the Popper 2.x series!
@@ -37,11 +36,9 @@ start, please feel free to contact us.
 
   * **2019/03/13**: Popper 2.0 released. Read the announcement in [our 
     blog](https://medium.com/getpopper/announcing-popper-2-0-a-github-actions-executioner-in-python-cf25620c021e).
-
   * **2019/01/20**: Popper project lead Ivo Jimenez selected as a 
     [CROSS Incubator 
     Fellow](https://cross.ucsc.edu/projects/index.html).
-
   * **2018/04/01**: Popper project lead Ivo Jimenez, is one of four 
     computer scientists (and the only graduate student) recognized by 
     the U.S. Department of Energy's Exascale Computing Project in its 
