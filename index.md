@@ -9,12 +9,14 @@ researchers to automate the execution and validation of (computational
 and data-intensive) experimentation workflows. To learn more about 
 Popper you can:
 
-  * Read the [overview][overview] or our [blog][blog].
-  * Download our [publications][pubs].
+  * Read [our blog][blog].
+  * Download [our publications][pubs].
   * [Email us](mailto:ivo@cs.ucsc.edu), 
     [chat](https://gitter.im/systemslab/popper) or [open an 
     issue](https://github.com/systemslab/popper/issues/new).
-  * Read the [documentation][docs].
+  * Read the [official documentation][docs].
+  * Install the [cli tool][cli] and go over the [quickstart 
+    guide][quickstart].
 
 We are currently working with researchers in many domains to create 
 reusable Popper [tasks and workflows](https://github.com/popperized). 
@@ -29,16 +31,28 @@ Upcoming Events:
     Barcelona'19](https://sched.co/MAKP) on the work by UCSC students 
     on automating Ceph experimentation workflows using Popper.
 
-  * **2019/08/21**: 
+  * **2019/08/21**: A hands-on tutorial on Popper will be part of this 
+    year's [FORCE11 FSCI](https://force11.org/fsci/2019/) program, the 
+    first with updated content for the Popper 2.x series!
 
 News:
 
-  * **2019/02**: Popper 2.0 released. Read the announcement [here]]().
-  * **2018/04**: PhD student Ivo Jimenez, main .
+  * **2019/03/01**: Popper 2.0.0 released. Read the announcement [our 
+    blog](https://medium.com/getpopper/announcing-popper-2-0-a-github-actions-executioner-in-python-cf25620c021e).
 
-[View all past announcements.]({{ site.baseurl }}/events.html)
+  * **2019/01/20**: Popper project lead Ivo Jimenez, selected as a 
+    [CROSS Incubator 
+    Fellow](https://cross.ucsc.edu/projects/index.html).
 
-### About Popper
+  * **2018/04/01**: Popper project lead Ivo Jimenez, is one of four 
+    computer scientists (and the only graduate student) recognized by 
+    the U.S. Department of Energy's Exascale Computing Project in its 
+    [inaugural class of Better Scientific Software (BSSw) 
+    Fellows](https://news.ucsc.edu/2018/02/bssw-fellow.html).
+
+[View all past announcements.]({{ site.baseurl }}/events/index)
+
+### Acknowledgements
 
 Popper is being developed at UC Santa Cruz and is supported in part by 
 the National Science Foundation ([award 
@@ -57,13 +71,9 @@ https://doi.org/10.1109/IPDPSW.2017.157.
 
 For BibTeX, click [here]({{ site.baseurl }}/pubs/bibtex/popper.bib).
 
+[cli]: https://github.com/systemslab/popper
 [popperized]: https://github.com/popperized
 [quick-start]: https://popper.readthedocs.io/en/latest/sections/getting_started.html
 [docs]: http://popper.readthedocs.io/en/latest/
-[overview]: https://popper.readthedocs.io/en/v1.1.2/sections/concepts.html
-[ci]: https://popper.readthedocs.io/en/v1.1.2/sections/ci_features.html
-[vsothers]: https://popper.readthedocs.io/en/v1.1.2/sections/concepts.html#popper-vs-other-software
-[cli]: https://github.com/systemslab/popper/
 [pubs]: {{ site.baseurl }}/pubs/index
 [blog]: https://medium.com/getpopper
-
