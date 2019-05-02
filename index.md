@@ -15,7 +15,7 @@ Popper you can:
     [chat](https://gitter.im/systemslab/popper) or [open an 
     issue](https://github.com/systemslab/popper/issues/new).
   * Read the [official documentation][docs].
-  * Install the [cli tool][cli] and go over the [quickstart 
+  * Install the [CLI tool][cli] and go over the [quickstart 
     guide][quickstart].
 
 We are currently working with researchers in many domains to create 
@@ -35,10 +35,10 @@ start, please feel free to contact us.
 
 ### News
 
-  * **2019/03/01**: Popper 2.0.0 released. Read the announcement [our 
+  * **2019/03/13**: Popper 2.0 released. Read the announcement in [our 
     blog](https://medium.com/getpopper/announcing-popper-2-0-a-github-actions-executioner-in-python-cf25620c021e).
 
-  * **2019/01/20**: Popper project lead Ivo Jimenez, selected as a 
+  * **2019/01/20**: Popper project lead Ivo Jimenez selected as a 
     [CROSS Incubator 
     Fellow](https://cross.ucsc.edu/projects/index.html).
 
@@ -71,7 +71,7 @@ For BibTeX, click [here]({{ site.baseurl }}/pubs/bibtex/popper.bib).
 
 [cli]: https://github.com/systemslab/popper
 [popperized]: https://github.com/popperized
-[quick-start]: https://popper.readthedocs.io/en/latest/sections/getting_started.html
+[quickstart]: https://popper.rtfd.io/en/latest/sections/getting_started.html
 [docs]: http://popper.readthedocs.io/en/latest/
 [pubs]: {{ site.baseurl }}/pubs/index
 [blog]: https://medium.com/getpopper
