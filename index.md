@@ -23,9 +23,7 @@ reusable Popper [tasks and workflows](https://github.com/popperized).
 If you are interested in contributing but are not certain on how to 
 start, please feel free to contact us.
 
-### Announcements
-
-Upcoming Events:
+### Upcoming Events:
 
   * **2019/05/19**: Ivo Jimenez will present at [Cephalocon 
     Barcelona'19](https://sched.co/MAKP) on the work by UCSC students 
@@ -35,7 +33,7 @@ Upcoming Events:
     year's [FORCE11 FSCI](https://force11.org/fsci/2019/) program, the 
     first with updated content for the Popper 2.x series!
 
-News:
+### News
 
   * **2019/03/01**: Popper 2.0.0 released. Read the announcement [our 
     blog](https://medium.com/getpopper/announcing-popper-2-0-a-github-actions-executioner-in-python-cf25620c021e).
