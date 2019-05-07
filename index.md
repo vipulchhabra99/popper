@@ -50,10 +50,10 @@ start, please feel free to contact us.
 ### Acknowledgements
 
 Popper is being developed at UC Santa Cruz and is supported in part by 
-the National Science Foundation ([award 
-#1450488](http://bigweatherweb.org)), the [Center for Research in Open 
-Source Software](http://cross.ucsc.edu) (CROSS), Sandia National 
-Laboratories, and Lawrence Livermore National Laboratory.
+the National Science Foundation (awards 
+[OAC-1450488](http://bigweatherweb.org) and [OAC-1836650](http://iris-hep.org/)),
+the [Center for Research in Open Source Software](http://cross.ucsc.edu) (CROSS),
+Sandia National Laboratories, and Lawrence Livermore National Laboratory.
 
 ### How to Cite Popper
 
