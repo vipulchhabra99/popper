@@ -37,3 +37,4 @@ Past news:
 
 [ppopp]: https://ppopp19.sigplan.org/details/PPoPP-2019-Workshops-and-Tutorials/1/Tutorial-Creating-Repeatable-Reusable-Experimentation-Pipelines-With-Popper-Hands-on-Tutorial-
 [fsci19]: https://www.force11.org/fsci/2019/course-abstracts#PM-B10
+[cephalocon19]: https://www.youtube.com/watch?v=hC5Rk7XLw5k&list=PLrBUGiINAakNCnQUosh63LpHbf84vegNu&index=28&t=25s
