@@ -5,9 +5,8 @@ layout: default
 _Popper_ is a tool for conducting scientific explorations and writing 
 academic articles following a 
 [DevOps](https://en.wikipedia.org/wiki/DevOps) approach. Popper allows 
-researchers to automate the execution and validation of (computational 
-and data-intensive) experimentation workflows. To learn more about 
-Popper you can:
+researchers to automate the execution and validation of computational and 
+data-intensive experimentation workflows. To learn more about Popper you can:
 
   * Read [our blog][blog].
   * Download [our publications][pubs].
@@ -15,7 +14,7 @@ Popper you can:
     [chat](https://gitter.im/systemslab/popper) or [open an 
     issue](https://github.com/systemslab/popper/issues/new).
   * Read the [official documentation][docs].
-  * Install the [CLI tool][cli] and go over the [quickstart 
+  * Install the [command line tool][cli] and go over the [quickstart 
     guide][quickstart].
 
 We are currently working with researchers in many domains to create 
@@ -25,25 +24,13 @@ start, please feel free to contact us.
 
 ### Upcoming Events:
 
-  * **2019/05/19**: Ivo Jimenez will present at [Cephalocon 
-    Barcelona'19](https://sched.co/MAKP) on the work by UCSC students 
-    on automating Ceph experimentation workflows using Popper.
-  * **2019/08/21**: A hands-on tutorial on Popper will be part of this 
-    year's [FORCE11 FSCI](https://force11.org/fsci/2019/) program, the 
-    first with updated content for the Popper 2.x series!
+  * **2019/08/21**: A hands-on tutorial on Popper will be part of the [eScience 
+    2019](https://escience2019.sdsc.edu/tutorials) tutorials program.
 
 ### News
 
-  * **2019/03/13**: Popper 2.0 released. Read the announcement in [our 
-    blog](https://medium.com/getpopper/announcing-popper-2-0-a-github-actions-executioner-in-python-cf25620c021e).
-  * **2019/01/20**: Popper project lead Ivo Jimenez selected as a 
-    [CROSS Incubator 
-    Fellow](https://cross.ucsc.edu/projects/index.html).
-  * **2018/04/01**: Popper project lead Ivo Jimenez, is one of four 
-    computer scientists (and the only graduate student) recognized by 
-    the U.S. Department of Energy's Exascale Computing Project in its 
-    [inaugural class of Better Scientific Software (BSSw) 
-    Fellows](https://news.ucsc.edu/2018/02/bssw-fellow.html).
+  * **2019/08/01**: Popper [2.4.0 
+    released](https://github.com/systemslab/popper/releases/tag/v2.4.0)!
 
 [View all past announcements.]({{ site.baseurl }}/events/index)
 
