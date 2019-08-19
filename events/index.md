@@ -12,8 +12,8 @@ Past Hands-on tutorials:
   * **2018/08**: LANL Summer School (9).
   * **2018/09**: UC Merced Data Science Institute (10).
   * **2019/01**: [Hands-on Tutorial at PPoPP'19][ppopp] (8).
-  * **2019/08**: A [hands-on tutorial on Popper][fsci19] was be part 
-    of [FSCI 2019](https://force11.org/fsci/2019/) program (8).
+  * **2019/08**: A [hands-on tutorial on Popper][fsci19] was part of 
+    the [FSCI 2019](https://force11.org/fsci/2019/) program (8).
 
 Past presentations:
 
